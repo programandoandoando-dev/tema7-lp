@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\GIT-GITHUB\\Tema7FP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5AFB946-1703-4633-A32E-16BE06A0A789}|Tema7FP.csproj|c:\\users\\usuario\\desktop\\git-github\\tema7fp\\frmgestionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AFB946-1703-4633-A32E-16BE06A0A789}|Tema7FP.csproj|solutionrelative:frmgestionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5AFB946-1703-4633-A32E-16BE06A0A789}|Tema7FP.csproj|c:\\users\\usuario\\desktop\\git-github\\tema7fp\\frmgestionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B5AFB946-1703-4633-A32E-16BE06A0A789}|Tema7FP.csproj|solutionrelative:frmgestionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -59,13 +63,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmGestionEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\GIT-GITHUB\\Tema7FP\\frmGestionEstudiante.cs",
+              "RelativeDocumentMoniker": "frmGestionEstudiante.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\GIT-GITHUB\\Tema7FP\\frmGestionEstudiante.cs*",
+              "RelativeToolTip": "frmGestionEstudiante.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T01:58:29.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmGestionEstudiante.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\GIT-GITHUB\\Tema7FP\\frmGestionEstudiante.cs",
               "RelativeDocumentMoniker": "frmGestionEstudiante.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\GIT-GITHUB\\Tema7FP\\frmGestionEstudiante.cs [Dise\u00F1o]*",
               "RelativeToolTip": "frmGestionEstudiante.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-13T00:56:41.821Z",
+              "WhenOpened": "2026-11-13T01:56:40.837Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

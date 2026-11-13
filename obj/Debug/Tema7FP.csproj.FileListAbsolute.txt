@@ -8,3 +8,4 @@ C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.csproj.GenerateRes
 C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.exe
 C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.pdb
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.exe.config
