@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\bin\Debug\Tema7FP.exe.config
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\bin\Debug\Tema7FP.exe
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\bin\Debug\Tema7FP.pdb
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.frmGestionEstudiante.resources
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.exe
+C:\Users\USUARIO\Desktop\GIT-GITHUB\Tema7FP\obj\Debug\Tema7FP.pdb
